@@ -1,0 +1,12 @@
+
+
+.dark-mode {
+  background-color: rgb(39, 37, 37);
+  color: orange;
+}
+header{
+  text-align: justify;
+}
+img{
+  float: left;
+}
