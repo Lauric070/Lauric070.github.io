@@ -4,6 +4,7 @@
   background-color: rgb(39, 37, 37);
   color: orange;
   
+  
 }
 header{
   text-align: justify;
@@ -21,4 +22,7 @@ h1{
 p{
   text-align: center;
   
+}
+h3{
+  text-align: center;
 }
